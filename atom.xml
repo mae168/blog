@@ -4,7 +4,7 @@
   <title><![CDATA[梅子札记]]></title>
   <link href="http://mae168.github.io//github/atom.xml" rel="self"/>
   <link href="http://mae168.github.io//github/"/>
-  <updated>2013-12-31T17:53:02+08:00</updated>
+  <updated>2014-01-01T10:33:08+08:00</updated>
   <id>http://mae168.github.io//github/</id>
   <author>
     <name><![CDATA[zhm]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[新年总结]]></title>
+    <link href="http://mae168.github.io//github/blog/2014/01/01/new-year/"/>
+    <updated>2014-01-01T00:46:58+08:00</updated>
+    <id>http://mae168.github.io//github/blog/2014/01/01/new-year</id>
+    <content type="html"><![CDATA[<p>新年总结测试</p>
+]]></content>
+  </entry>
   
 </feed>
